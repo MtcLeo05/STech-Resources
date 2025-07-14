@@ -6,8 +6,8 @@
 		64
 	],
 	"textures": {
-		"0": "stech:block/test",
-		"particle": "stech:block/test"
+		"0": "stech:block/crusher_1",
+		"particle": "stech:block/crusher_1"
 	},
 	"elements": [
 		{

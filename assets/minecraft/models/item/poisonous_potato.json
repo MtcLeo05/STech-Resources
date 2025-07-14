@@ -8,7 +8,19 @@
             "predicate": {
                 "custom_model_data": 698054
             },
-            "model": "stech:block/test"
+            "model": "stech:block/crusher_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 698055
+            },
+            "model": "stech:block/crusher_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 698056
+            },
+            "model": "stech:block/crusher_3"
         }
     ]
 }
