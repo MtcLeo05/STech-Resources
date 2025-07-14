@@ -21,6 +21,24 @@
                 "custom_model_data": 698056
             },
             "model": "stech:block/crusher_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500000
+            },
+            "model": "stech:item/crushed_iron"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500001
+            },
+            "model": "stech:item/crushed_gold"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500002
+            },
+            "model": "stech:item/crushed_copper"
         }
     ]
 }

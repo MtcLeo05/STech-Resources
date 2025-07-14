@@ -2,5 +2,10 @@
     "stech.block.crusher_1": "Crusher MK-I",
     "stech.block.crusher_2": "Crusher MK-II",
     "stech.block.crusher_3": "Crusher MK-III",
+
+    "stech.item.crushed_iron": "Crushed Iron",
+    "stech.item.crushed_gold": "Crushed Gold",
+    "stech.item.crushed_copper": "Crushed Copper",
+
     "stech.interaction.change_face": "%s - %s"
 }
